@@ -1,0 +1,560 @@
+Variable,VariableLabel,Value,ValueLabel
+weight,National weight,,
+,,,
+schoolUniverse_weight,National weight based only on schools sampled,,
+,,,
+schoolweight,School weight,,
+,,,
+submitted_at,Date and time of survey completion,,
+,,,
+insttype,Type of school,,
+,,,
+age,How old are you?,-99,Other
+,,,
+financialaid,Do you receive financial aid?,1,Yes
+,,2,No
+,,3,Other
+,,,
+gender,Which of the following genders do you most identify with?,1,Male
+,,2,Female
+,,3,Gender non-conforming
+,,,
+geography,"What region of the US is your hometown in, or are you an international student?",1,New England
+,,2,Mid-Atlantic
+,,3,Midwest
+,,4,South
+,,5,West
+,,6,Non-Continental
+,,7,International
+,,8,Other
+,,,
+highschool,What type of high school did you go to?,1,Public
+,,2,Public charter
+,,3,Public magnet
+,,4,Parochial
+,,5,Private
+,,6,Homeschool
+,,7,Other
+,,,
+major1,"Please select your department/your major(s), or intended major(s)",1,Accounting
+,,2,African/Afr-American Studies
+,,3,Agricultural/Food Sciences
+,,4,Animal Science
+,,5,Anthropology
+,,6,Archaeology
+,,7,Architecture
+,,8,Art History
+,,9,Asian/Mideast Lang & Lit
+,,10,Asian/Mideast Studies
+,,11,Physics and Astronomy
+,,12,Biochemistry and Molecular Biology
+,,13,Biological Sciences
+,,14,Business
+,,15,Chemistry
+,,16,Classics
+,,17,Cognitive Science
+,,18,Communication
+,,19,Computer Science
+,,20,Dance
+,,21,Data Science
+,,22,Development Studies
+,,23,Digital Media Design
+,,24,Earth Sciences
+,,25,Economics
+,,26,Education
+,,27,Engineering Sciences
+,,28,English
+,,29,Environmental Studies
+,,30,Ethnicity and Race Studies
+,,31,European Cultural Studies
+,,32,Fashion
+,,33,Film and Media Studies
+,,34,Finance
+,,35,Fine Arts
+,,36,French and Italian
+,,37,Geography
+,,38,German Studies
+,,39,History
+,,40,Hotel Administration
+,,41,International Relations
+,,42,Jewish Studies
+,,43,Lat Am/Latino/Carib Studies
+,,44,Law/Criminology
+,,45,Linguistics
+,,46,Marketing
+,,47,Mathematics
+,,48,Music
+,,50,Neuroscience
+,,51,Nursing
+,,52,Philosophy
+,,53,Physical Education
+,,54,Political Science
+,,55,Portuguese and Brazilian Studies
+,,56,Pre-Medical
+,,57,Psychological and Brain Sciences
+,,58,Public Health
+,,59,Public Policy
+,,61,Real Estate
+,,62,Religion
+,,63,Robotics and Intelligent Systems
+,,65,Sociology
+,,66,Spanish and Portuguese
+,,67,Statistics
+,,68,Studio Art
+,,69,Theater
+,,70,Undecided
+,,71,Urban Studies
+,,72,Visual Arts
+,,73,Women's and Gender Studies (and Sexuality)
+,,74,other
+,,,
+major2,"Please select your department/your major(s), or intended major(s)",1,Accounting
+,,2,African/Afr-American Studies
+,,3,Agricultural/Food Sciences
+,,4,Animal Science
+,,5,Anthropology
+,,6,Archaeology
+,,7,Architecture
+,,8,Art History
+,,9,Asian/Mideast Lang & Lit
+,,10,Asian/Mideast Studies
+,,11,Physics and Astronomy
+,,12,Biochemistry and Molecular Biology
+,,13,Biological Sciences
+,,14,Business
+,,15,Chemistry
+,,16,Classics
+,,17,Cognitive Science
+,,18,Communication
+,,19,Computer Science
+,,20,Dance
+,,21,Data Science
+,,22,Development Studies
+,,23,Digital Media Design
+,,24,Earth Sciences
+,,25,Economics
+,,26,Education
+,,27,Engineering Sciences
+,,28,English
+,,29,Environmental Studies
+,,30,Ethnicity and Race Studies
+,,31,European Cultural Studies
+,,32,Fashion
+,,33,Film and Media Studies
+,,34,Finance
+,,35,Fine Arts
+,,36,French and Italian
+,,37,Geography
+,,38,German Studies
+,,39,History
+,,40,Hotel Administration
+,,41,International Relations
+,,42,Jewish Studies
+,,43,Lat Am/Latino/Carib Studies
+,,44,Law/Criminology
+,,45,Linguistics
+,,46,Marketing
+,,47,Mathematics
+,,48,Music
+,,50,Neuroscience
+,,51,Nursing
+,,52,Philosophy
+,,53,Physical Education
+,,54,Political Science
+,,55,Portuguese and Brazilian Studies
+,,56,Pre-Medical
+,,57,Psychological and Brain Sciences
+,,58,Public Health
+,,59,Public Policy
+,,61,Real Estate
+,,62,Religion
+,,63,Robotics and Intelligent Systems
+,,65,Sociology
+,,66,Spanish and Portuguese
+,,67,Statistics
+,,68,Studio Art
+,,69,Theater
+,,70,Undecided
+,,71,Urban Studies
+,,72,Visual Arts
+,,73,Women's and Gender Studies (and Sexuality)
+,,74,other
+,,,
+major3,"Please select your department/your major(s), or intended major(s)",1,Accounting
+,,2,African/Afr-American Studies
+,,3,Agricultural/Food Sciences
+,,4,Animal Science
+,,5,Anthropology
+,,6,Archaeology
+,,7,Architecture
+,,8,Art History
+,,9,Asian/Mideast Lang & Lit
+,,10,Asian/Mideast Studies
+,,11,Physics and Astronomy
+,,12,Biochemistry and Molecular Biology
+,,13,Biological Sciences
+,,14,Business
+,,15,Chemistry
+,,16,Classics
+,,17,Cognitive Science
+,,18,Communication
+,,19,Computer Science
+,,20,Dance
+,,21,Data Science
+,,22,Development Studies
+,,23,Digital Media Design
+,,24,Earth Sciences
+,,25,Economics
+,,26,Education
+,,27,Engineering Sciences
+,,28,English
+,,29,Environmental Studies
+,,30,Ethnicity and Race Studies
+,,31,European Cultural Studies
+,,32,Fashion
+,,33,Film and Media Studies
+,,34,Finance
+,,35,Fine Arts
+,,36,French and Italian
+,,37,Geography
+,,38,German Studies
+,,39,History
+,,40,Hotel Administration
+,,41,International Relations
+,,42,Jewish Studies
+,,43,Lat Am/Latino/Carib Studies
+,,44,Law/Criminology
+,,45,Linguistics
+,,46,Marketing
+,,47,Mathematics
+,,48,Music
+,,50,Neuroscience
+,,51,Nursing
+,,52,Philosophy
+,,53,Physical Education
+,,54,Political Science
+,,55,Portuguese and Brazilian Studies
+,,56,Pre-Medical
+,,57,Psychological and Brain Sciences
+,,58,Public Health
+,,59,Public Policy
+,,61,Real Estate
+,,62,Religion
+,,63,Robotics and Intelligent Systems
+,,65,Sociology
+,,66,Spanish and Portuguese
+,,67,Statistics
+,,68,Studio Art
+,,69,Theater
+,,70,Undecided
+,,71,Urban Studies
+,,72,Visual Arts
+,,73,Women's and Gender Studies (and Sexuality)
+,,74,other
+,,,
+sexorientation,What is your sexual orientation?,1,Heterosexual/Straight
+,,2,Gay/Lesbian
+,,3,Bisexual
+,,4,Queer/questioning/other
+,,,
+partyid,"In politics today, do you consider yourself a Republican, Democrat, or something else?",1,Strong Democrat
+,,2,Weak Democrat
+,,3,"Independent, lean Democrat"
+,,4,Independent
+,,5,"Independent, lean Republican"
+,,6,Weak Republican
+,,7,Strong Republican
+,,8,Something else
+,,,
+religion,"What is your present religion, if any?",1,Protestant
+,,2,Catholic
+,,3,Mormon
+,,4,Orthodox
+,,5,Jewish
+,,6,Muslim
+,,7,Atheist
+,,8,Agnostic
+,,9,Nothing
+,,10,Christian
+,,11,Buddhist
+,,12,Hindu
+,,13,Other
+,,,
+ses,"Thinking about your family's financial situation when you were growing up, how would you describe your family's social class?",1,Upper class
+,,2,Upper-middle class
+,,3,Middle class
+,,4,Working class
+,,5,Lower class
+,,,
+regvoter,Are you currently registered to vote at your present address?,1,"Yes, registered to vote"
+,,2,"No, not registered"
+,,,
+race,Which of the following races or ethnicities do you most identify with?,1,Asian
+,,2,Black or African-American
+,,3,Hispanic/Latino
+,,4,American Indian
+,,5,Middle Eastern
+,,6,Native Hawaiian
+,,7,White
+,,8,Two or more races
+,,10,Other
+,,,
+ideo,Political ideology,1,Very liberal
+,,2,Somewhat liberal
+,,3,Slightly liberal
+,,4,"Moderate, middle-of-the-road"
+,,5,Slightly conservative
+,,6,Somewhat conservative
+,,7,Very conservative
+,,8,Democratic Socialist
+,,9,Libertarian
+,,10,Haven‚'t thought much about this
+,,11,Something else
+,,,
+adminclear,How clear is it to you that your college administration protects free speech on campus?,1,Not at all clear
+,,2,Not very clear
+,,3,Somewhat clear
+,,4,Very clear
+,,5,Extremely clear
+,,,
+admincontr,"If a controversy over offensive speech were to occur on your campus, how likely is it that the administration would defend the speaker's right to express their views?",1,Not at all likely
+,,2,Not very likely
+,,3,Somewhat likely
+,,4,Very likely
+,,5,Extremely likely
+,,,
+pubprof,How comfortable would you feel doing the following on your campus?: Publicly disagreeing with a professor about a controversial political topic.,1,Very uncomfortable
+,,2,Somewhat uncomfortable
+,,3,Somewhat comfortable
+,,4,Very comfortable
+,,,
+wrtprof,How comfortable would you feel doing the following on your campus? Expressing disagreement with one of your professors about a controversial political topic in a written assignment.,1,Very uncomfortable
+,,2,Somewhat uncomfortable
+,,3,Somewhat comfortable
+,,4,Very comfortable
+,,,
+inclass,How comfortable would you feel doing the following on your campus? Expressing your views on a controversial political topic during an in-class discussion.,1,Very uncomfortable
+,,2,Somewhat uncomfortable
+,,3,Somewhat comfortable
+,,4,Very comfortable
+,,,
+quad,"How comfortable would you feel doing the following on your campus? Expressing your views on a controversial political topic to other students during a discussion in a common campus space such as a quad, dining hall, or lounge.",1,Very uncomfortable
+,,2,Somewhat uncomfortable
+,,3,Somewhat comfortable
+,,4,Very comfortable
+,,,
+socmedia,How comfortable would you feel doing the following on your campus? Expressing an unpopular political opinion to your fellow students on a social media account tied to your name.,1,Very uncomfortable
+,,2,Somewhat uncomfortable
+,,3,Somewhat comfortable
+,,4,Very comfortable
+,,,
+scstdnts,How often do you self-censor during conversations with other students on campus?,1,Never
+,,2,Rarely
+,,3,"Occasionally, once or twice a month"
+,,4,"Fairly often, a couple of times a week"
+,,5,"Very often, nearly every day"
+,,,
+scprofs,How often do you self-censor during conversations with your professors?,1,Never
+,,2,Rarely
+,,3,"Occasionally, once or twice a month"
+,,4,"Fairly often, a couple of times a week"
+,,5,"Very often, nearly every day"
+,,,
+scclass,How often do you self-censor during classroom discussions?,1,Never
+,,2,Rarely
+,,3,"Occasionally, once or twice a month"
+,,4,"Fairly often, a couple of times a week"
+,,5,"Very often, nearly every day"
+,,,
+shoutdown,How acceptable would you say it is for students to engage in the following actions to protest a campus speaker? Shouting down a speaker to prevent them from speaking on campus.,1,Always acceptable
+,,2,Sometimes acceptable
+,,3,Rarely acceptable
+,,4,Never acceptable
+,,,
+block,How acceptable would you say it is for students to engage in the following actions to protest a campus speaker? Blocking other students from attending a campus speech.,1,Always acceptable
+,,2,Sometimes acceptable
+,,3,Rarely acceptable
+,,4,Never acceptable
+,,,
+violence,How acceptable would you say it is for students to engage in the following actions to protest a campus speaker? Using violence to stop a campus speech.,1,Always acceptable
+,,2,Sometimes acceptable
+,,3,Rarely acceptable
+,,4,Never acceptable
+,,,
+spktrans,"Student groups often invite speakers to campus to express their views on a range of topics. Regardless of your own views on the topic, should your school ALLOW or NOT ALLOW a speaker on campus who has previously expressed the following idea? Transgender people have a mental disorder.",1,Definitely should not allow this speaker
+,,2,Probably should not allow this speaker
+,,3,Probably should allow this speaker
+,,4,Definitely should allow this speaker
+,,,
+spkabortion,"Student groups often invite speakers to campus to express their views on a range of topics. Regardless of your own views on the topic, should your school ALLOW or NOT ALLOW a speaker on campus who has previously expressed the following idea? Abortion should be completely illegal.",1,Definitely should not allow this speaker
+,,2,Probably should not allow this speaker
+,,3,Probably should allow this speaker
+,,4,Definitely should allow this speaker
+,,,
+spkblm,"Student groups often invite speakers to campus to express their views on a range of topics. Regardless of your own views on the topic, should your school ALLOW or NOT ALLOW a speaker on campus who has previously expressed the following idea? Black Lives Matter is a hate group.",1,Definitely should not allow this speaker
+,,2,Probably should not allow this speaker
+,,3,Probably should allow this speaker
+,,4,Definitely should allow this speaker
+,,,
+spkchurch,"Student groups often invite speakers to campus to express their views on a range of topics. Regardless of your own views on the topic, should your school ALLOW or NOT ALLOW a speaker on campus who has previously expressed the following idea? The Catholic church is a pedophilic institution.",1,Definitely should not allow this speaker
+,,2,Probably should not allow this speaker
+,,3,Probably should allow this speaker
+,,4,Definitely should allow this speaker
+,,,
+spkpolice,"Student groups often invite speakers to campus to express their views on a range of topics. Regardless of your own views on the topic, should your school ALLOW or NOT ALLOW a speaker on campus who has previously expressed the following idea? The police are just as racist as the Ku Klux Klan.",1,Definitely should not allow this speaker
+,,2,Probably should not allow this speaker
+,,3,Probably should allow this speaker
+,,4,Definitely should allow this speaker
+,,,
+spkchildren,"Student groups often invite speakers to campus to express their views on a range of topics. Regardless of your own views on the topic, should your school ALLOW or NOT ALLOW a speaker on campus who has previously expressed the following idea? Children should be able to transition without parental consent.",1,Definitely should not allow this speaker
+,"Student groups often invite speakers to campus to express their views on a range of topics. Regardless of your own views on the topic, should your school ALLOW or NOT ALLOW a speaker on campus who has previously expressed the following idea? Children should be able to transition without parental consent.",2,Probably should not allow this speaker
+,"Student groups often invite speakers to campus to express their views on a range of topics. Regardless of your own views on the topic, should your school ALLOW or NOT ALLOW a speaker on campus who has previously expressed the following idea? Children should be able to transition without parental consent.",3,Probably should allow this speaker
+,"Student groups often invite speakers to campus to express their views on a range of topics. Regardless of your own views on the topic, should your school ALLOW or NOT ALLOW a speaker on campus who has previously expressed the following idea? Children should be able to transition without parental consent.",4,Definitely should allow this speaker
+,,,
+abortion,"Some students say it can be difficult to have conversations about certain issues on campus. Which of the following issues, if any, would you say are difficult to have an open and honest conversation about on your campus? (select all that apply): Abortion",0,No
+,,1,Yes
+,,,
+affirmact,"Some students say it can be difficult to have conversations about certain issues on campus. Which of the following issues, if any, would you say are difficult to have an open and honest conversation about on your campus? (select all that apply): Affirmative action",0,No
+,,1,Yes
+,,,
+china,"Some students say it can be difficult to have conversations about certain issues on campus. Which of the following issues, if any, would you say are difficult to have an open and honest conversation about on your campus? (select all that apply): China",0,No
+,,1,Yes
+,,,
+climate,"Some students say it can be difficult to have conversations about certain issues on campus. Which of the following issues, if any, would you say are difficult to have an open and honest conversation about on your campus? (select all that apply): Climate change",0,No
+,,1,Yes
+,,,
+crime,"Some students say it can be difficult to have conversations about certain issues on campus. Which of the following issues, if any, would you say are difficult to have an open and honest conversation about on your campus? (select all that apply): Crime",0,No
+,,1,Yes
+,,,
+econineq,"Some students say it can be difficult to have conversations about certain issues on campus. Which of the following issues, if any, would you say are difficult to have an open and honest conversation about on your campus? (select all that apply): Economic inequality",0,No
+,,1,Yes
+,,,
+freespeech,"Some students say it can be difficult to have conversations about certain issues on campus. Which of the following issues, if any, would you say are difficult to have an open and honest conversation about on your campus? (select all that apply): Freedom of speech",0,No
+,,1,Yes
+,,,
+gayrights,"Some students say it can be difficult to have conversations about certain issues on campus. Which of the following issues, if any, would you say are difficult to have an open and honest conversation about on your campus? (select all that apply): Gay rights",0,No
+,,1,Yes
+,,,
+genderineq,"Some students say it can be difficult to have conversations about certain issues on campus. Which of the following issues, if any, would you say are difficult to have an open and honest conversation about on your campus? (select all that apply): Gender inequality",0,No
+,,1,Yes
+,,,
+gunctrl,"Some students say it can be difficult to have conversations about certain issues on campus. Which of the following issues, if any, would you say are difficult to have an open and honest conversation about on your campus? (select all that apply): Gun control",0,No
+,,1,Yes
+,,,
+hatespeech,"Some students say it can be difficult to have conversations about certain issues on campus. Which of the following issues, if any, would you say are difficult to have an open and honest conversation about on your campus? (select all that apply): Hate speech",0,No
+,,1,Yes
+,,,
+immigration,"Some students say it can be difficult to have conversations about certain issues on campus. Which of the following issues, if any, would you say are difficult to have an open and honest conversation about on your campus? (select all that apply): Immigration",0,No
+,,1,Yes
+,,,
+ipc,"Some students say it can be difficult to have conversations about certain issues on campus. Which of the following issues, if any, would you say are difficult to have an open and honest conversation about on your campus? (select all that apply): The Israeli/Palestinian conflict",0,No
+,,1,Yes
+,,,
+election,"Some students say it can be difficult to have conversations about certain issues on campus. Which of the following issues, if any, would you say are difficult to have an open and honest conversation about on your campus? (select all that apply): The 2024 presidential election",0,No
+,,1,Yes
+,,,
+police,"Some students say it can be difficult to have conversations about certain issues on campus. Which of the following issues, if any, would you say are difficult to have an open and honest conversation about on your campus? (select all that apply): Police misconduct",0,No
+,,1,Yes
+,,,
+raceineq,"Some students say it can be difficult to have conversations about certain issues on campus. Which of the following issues, if any, would you say are difficult to have an open and honest conversation about on your campus? (select all that apply): Racial inequality",0,No
+,,1,Yes
+,,,
+relig,"Some students say it can be difficult to have conversations about certain issues on campus. Which of the following issues, if any, would you say are difficult to have an open and honest conversation about on your campus? (select all that apply): Religion",0,No
+,,1,Yes
+,,,
+sexasslt,"Some students say it can be difficult to have conversations about certain issues on campus. Which of the following issues, if any, would you say are difficult to have an open and honest conversation about on your campus? (select all that apply): Sexual assault",0,No
+,,1,Yes
+,,,
+supreme,"Some students say it can be difficult to have conversations about certain issues on campus. Which of the following issues, if any, would you say are difficult to have an open and honest conversation about on your campus? (select all that apply): The Supreme Court",0,No
+,,1,Yes
+,,,
+transrights,"Some students say it can be difficult to have conversations about certain issues on campus. Which of the following issues, if any, would you say are difficult to have an open and honest conversation about on your campus? (select all that apply): Transgender rights",0,No
+,,1,Yes
+,,,
+none1,"Some students say it can be difficult to have conversations about certain issues on campus. Which of the following issues, if any, would you say are difficult to have an open and honest conversation about on your campus? (select all that apply): None of the above",0,No
+,,1,Yes
+,,,
+selfcensor,"On your campus, how often have you felt that you could not express your opinion on a subject because of how other students, a professor, or the administration would respond?",1,Never
+,,2,Rarely
+,,3,"Occasionally, once or twice a month"
+,,4,"Fairly often, a couple of times a week"
+,,5,"Very often, nearly every day"
+,,,
+sc_open,Please share a moment where you personally felt you could not express your opinion on your campus.,,
+,,,
+anxious,How often would you say that you feel anxious?,1,Never
+,,2,Less than half the time
+,,3,About half the time
+,,4,"Most of the time, nearly every day"
+,,5,Always
+lonely,How often would you say that you feel lonely or isolated?,1,Never
+,,2,Less than half the time
+,,3,About half the time
+,,4,"Most of the time, nearly every day"
+,,5,Always
+notime,How often would you say that you feel like you have no time for yourself?,1,Never
+,,2,Less than half the time
+,,3,About half the time
+,,4,"Most of the time, nearly every day"
+,,5,Always
+depressed,How often would you say that you feel depressed?,1,Never
+,,2,Less than half the time
+,,3,About half the time
+,,4,"Most of the time, nearly every day"
+,,5,Always
+,,,
+stressed,"How often would you say that you feel stressed, frustrated, or overwhelmed?",1,Never
+,,2,Less than half the time
+,,3,About half the time
+,,4,"Most of the time, nearly every day"
+,,5,Always
+,,,
+discipline,Have you ever been disciplined by your college’s administration for expression on campus?,1,"Yes, I have been disciplined."
+,,2,"No, but I have been threatened with discipline."
+,,3,I have not been disciplined nor threatened with discipline.
+,,,
+scgrade,"How often, if at all, do you hide your political beliefs from your professors in an attempt to get a better grade?",1,Never
+,,2,Rarely
+,,3,"Occasionally, once or twice a month"
+,,4,"Fairly often, a couple times a week"
+,,5,"Very often, nearly every day"
+,,,
+stdntreport,How likely or unlikely is it that a student on campus would be reported to the administration by another student for saying something controversial?,1,Very unlikely
+,,2,Unlikely
+,,3,Neither likely or unlikely
+,,4,Likely
+,,5,Very likely
+,,,
+profreport,How likely or unlikely is it that a professor on campus would be reported to the administration by a student for saying something controversial?,1,Very unlikely
+,,2,Unlikely
+,,3,Neither likely or unlikely
+,,4,Likely
+,,5,Very likely
+,,,
+titleixfiled,Have you or anyone you know filed a Title IX complaint?,1,I have filed a Title IX complaint.
+,,2,I both know someone who has and have myself filed a Title IX complaint.
+,,3,I have not but I know someone who has filed a Title IX complaint.
+,,4,"I have neither filed a Title IX complaint, nor know anyone who has."")"
+,,,
+titleixagainst,Has a Title IX complaint ever been filed against you or someone you know?,1,A Title IX complaint was filed against me.
+,,2,A Title IX complaint was filed against me and someone I know.
+,,3,"A Title IX complaint was filed against someone I know, but not me."
+,,4,"A Title IX complaint has never been filed against me or someone I know."")"
+,,,
+friends,"Not counting your family, how many close friends do you have?",,
+,,,
+religattend,How often do you attend church or religious services?,1,Never
+,,2,Less than once a year
+,,3,Once or twice a year
+,,4,Several times a year
+,,5,Once a month
+,,6,2-3 times a month
+,,7,About weekly
+,,8,Weekly
+,,9,Several times a week
+,,,
+military,Are you currently a member of the armed services?,1,Yes
+,,2,No
+,,,
+veteran,Are you a veteran of the armed services?,1,Yes
+,,2,No
