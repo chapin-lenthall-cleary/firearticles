@@ -1,0 +1,1 @@
+cfsrMOST.csv excludes the 2020 and 2021 data due to github's file size limits, and must be renamed to cfsrALL.csv to function in the script. Or just download the full data file here: https://drive.google.com/file/d/1FoPO8UDgHiS5EpCGcP0Mpkt3mfm6dKpm/view?usp=sharing
