@@ -1,0 +1,19 @@
+Gender,Tag,N,left_wing_tolerance,right_wing_tolerance,average_tolerance,minimum_tolerance,left_wing_tolerance_ideoadj,right_wing_tolerance_ideoadj,average_tolerance_ideoadj,minimum_tolerance_ideoadj
+Men,Normal,242,42.3,46.3,44.3,35.3,44.7,42.2,43.5,35.0
+Men,Unusual,41,55.3,30.9,43.1,28.4,52.8,32.6,42.7,31.3
+Men,Short explanation,33,47.5,40.7,44.1,34.3,47.5,39.4,43.5,35.2
+Men,Long explanation,11,69.7,65.6,67.7,63.6,69.1,62.5,65.8,59.9
+Men,Joke,17,43.8,42.5,43.1,31.4,46.2,40.4,43.3,32.8
+Men,Other,44,44.9,44.9,44.9,35.3,47.6,44.0,45.8,37.4
+Women,Normal,450,38.7,28.4,33.6,23.1,38.3,29.5,33.9,24.4
+Women,Unusual,61,47.7,22.2,35.0,20.8,43.8,27.6,35.7,24.8
+Women,Short explanation,59,43.1,28.6,35.9,23.0,41.0,31.1,36.0,26.7
+Women,Long explanation,11,63.6,34.3,49.0,31.3,60.2,36.5,48.3,36.2
+Women,Joke,12,49.1,36.1,42.6,33.3,48.6,37.0,42.8,34.0
+Women,Other,51,41.6,27.2,34.4,23.5,39.3,30.7,35.0,25.5
+Nonbinary,Normal,25,55.1,16.0,35.6,14.7,48.7,22.7,35.7,18.1
+Nonbinary,Unusual,33,53.9,16.2,35.0,16.2,47.1,22.6,34.9,20.1
+Nonbinary,Short explanation,12,62.0,27.8,44.9,27.8,54.8,33.3,44.0,30.3
+Nonbinary,Long explanation,3,66.7,25.9,46.3,25.9,58.6,32.4,45.5,32.4
+Nonbinary,Joke,8,47.2,29.2,38.2,15.3,42.7,36.4,39.5,17.5
+Nonbinary,Other,5,60.0,44.5,52.2,42.2,52.4,52.1,52.2,43.2
