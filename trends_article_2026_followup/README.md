@@ -14,5 +14,3 @@ This package extends the five charts from [the original Expression post](https:/
 ## Reproduce
 
 Run the notebook from this directory. It reads the ZIP in `data/`, validates year counts and key estimates, and rewrites every file in `trends_article_outputs/`.
-
-The article's intended public code URL is [https://github.com/chapin-lenthall-cleary/firearticles/tree/main/trends_article_2026_followup](https://github.com/chapin-lenthall-cleary/firearticles/tree/main/trends_article_2026_followup). The folder must be uploaded there before publication.
