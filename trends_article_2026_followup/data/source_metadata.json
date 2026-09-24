@@ -1,0 +1,16 @@
+{
+  "source_file": "cfsrALL_2027.csv",
+  "row_count": 347369,
+  "row_count_by_year": {
+    "2020": 20002,
+    "2021": 37104,
+    "2022": 44847,
+    "2023": 55102,
+    "2024": 58807,
+    "2025": 68510,
+    "2026": 62997
+  },
+  "survey_start_2026": "2026-01-02 12:45:02",
+  "survey_end_2026": "2026-06-03 22:15:28",
+  "note": "Exact submission timestamps were audited locally and excluded from the analysis extract."
+}
